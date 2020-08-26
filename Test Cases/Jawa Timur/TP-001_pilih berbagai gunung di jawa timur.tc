@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sebagai user kita bisa memilih gunung gunung yang ada di jawa timur</description>
+   <name>TP-001_pilih berbagai gunung di jawa timur</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a363f023-554e-48e8-977b-75adc0bb3ca0</testCaseGuid>
+</TestCaseEntity>
